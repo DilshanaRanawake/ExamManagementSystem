@@ -1,0 +1,53 @@
+C:\Users\This PC\source\repos\ems\ems\bin\Debug\net8.0-windows\ems.exe
+C:\Users\This PC\source\repos\ems\ems\bin\Debug\net8.0-windows\ems.deps.json
+C:\Users\This PC\source\repos\ems\ems\bin\Debug\net8.0-windows\ems.runtimeconfig.json
+C:\Users\This PC\source\repos\ems\ems\bin\Debug\net8.0-windows\ems.dll
+C:\Users\This PC\source\repos\ems\ems\bin\Debug\net8.0-windows\ems.pdb
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.csproj.GenerateResource.cache
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.AssemblyInfoInputs.cache
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.AssemblyInfo.cs
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.dll
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\refint\ems.dll
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.pdb
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.genruntimeconfig.cache
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ref\ems.dll
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.Questions.resources
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.Properties.Resources.resources
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.Candidates.resources
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.Subjects.resources
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.Exams.resources
+C:\Users\This PC\source\repos\ems\ems\obj\Debug\net8.0-windows\ems.Splash.resources
+C:\Users\Public\quizMngmnt\ems\bin\Debug\net8.0-windows\ems.exe
+C:\Users\Public\quizMngmnt\ems\bin\Debug\net8.0-windows\ems.deps.json
+C:\Users\Public\quizMngmnt\ems\bin\Debug\net8.0-windows\ems.runtimeconfig.json
+C:\Users\Public\quizMngmnt\ems\bin\Debug\net8.0-windows\ems.dll
+C:\Users\Public\quizMngmnt\ems\bin\Debug\net8.0-windows\ems.pdb
+C:\Users\Public\quizMngmnt\ems\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Public\quizMngmnt\ems\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Public\quizMngmnt\ems\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Public\quizMngmnt\ems\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Public\quizMngmnt\ems\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Public\quizMngmnt\ems\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.csproj.AssemblyReference.cache
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.Candidates.resources
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.Exams.resources
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.Login.resources
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.Properties.Resources.resources
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.Questions.resources
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.Splash.resources
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.Subjects.resources
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.ViewResults.resources
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.csproj.GenerateResource.cache
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.AssemblyInfoInputs.cache
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.AssemblyInfo.cs
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.csproj.CoreCompileInputs.cache
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.csproj.Up2Date
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.dll
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\refint\ems.dll
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.pdb
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.genruntimeconfig.cache
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ref\ems.dll
+C:\Users\Public\quizMngmnt\ems\obj\Debug\net8.0-windows\ems.AdminLogin.resources
